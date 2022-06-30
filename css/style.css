@@ -1483,6 +1483,7 @@ figure p {
 
 .img-step {
   opacity: 0;
+  border:5px solid #1b6b6f; padding:15px;
 }
 
 .is-active.transition {
