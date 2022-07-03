@@ -1,0 +1,24 @@
+
+.video-description{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+.video-section{
+    margin: 0 auto;
+    max-width: 560px;
+    margin-top: 50px;
+}
+
+.cover-video {
+    padding: 50px 0;
+    position: relative;
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 100vh;
+    /* padding-bottom: 62.5%; */
+    z-index: 0;
+    background-repeat: no-repeat;
+    background-image: url("../../images/video-cover.jpg");
+}
