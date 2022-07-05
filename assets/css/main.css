@@ -6,7 +6,11 @@
 	pixelarity.com | hello@pixelarity.com
 	License: pixelarity.com/license
 */
-
+#main{
+	margin: 0 auto;
+	max-width: 1366px;
+	margin-top: 30px;
+}
 #tableauViz {
     /* height: 100%; */
     /* left: 0; */
