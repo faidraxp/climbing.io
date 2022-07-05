@@ -1,0 +1,66 @@
+header .navbar {
+    justify-content:flex-start!important;
+    flex-wrap: nowrap;
+
+}
+header .navbar a:hover{
+    color: white;
+}
+
+
+.cover-credits{
+    padding: 50px 0;
+    position: relative;
+    background-size: cover;
+    background-position: 50% 50%;
+    /* height: 0; */
+    /* padding-bottom: 62.5%; */
+    z-index: 0;
+    background-repeat: no-repeat;
+    background-image: url("../../images/pexels-pixabay-461593.jpg");
+}
+.credits-section{
+    margin: 0 auto;
+    max-width: 1024px;
+    margin-top: 50px;
+}
+
+.credit-info{
+    width: 100%;
+    margin-bottom: 10px;
+    /* margin-right: 10px; */
+}
+
+.credit-image{
+    height: 300px;
+}
+img{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+.credit-text{
+
+
+}
+.credit-text-container{
+    padding: 10px;
+    background-color: #FAFAF8F0;
+    height: 300px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.title-credit-text{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.title-description-text{
+    font-size: 16px;
+    font-weight: 400;
+}
