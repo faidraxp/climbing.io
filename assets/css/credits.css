@@ -24,7 +24,21 @@ header .navbar a:hover{
     max-width: 1024px;
     margin-top: 50px;
 }
+.sources{
+    margin: 0 auto;
+    max-width: 1024px;
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color: #FAFAF8F0;
+    padding: 10px;
+}
+.sources a,a:hover{
+    color: black;
+}
 
+ul.datasets-links,ul.sources-links{
+    padding-left: 30px;
+}
 .credit-info{
     width: 100%;
     margin-bottom: 10px;
